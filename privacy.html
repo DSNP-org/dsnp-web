@@ -9,7 +9,6 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/fonts.css">
   <link rel="stylesheet" href="css/skeleton.css">
-  <link rel="stylesheet" href="css/custom.css">
   <link rel="icon" type="image/png" href="images/favicon.ico">
   <script type="text/javascript">
     var _paq = window._paq = window._paq || [];
@@ -23,6 +22,14 @@
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
         g.async=true; g.src='//cdn.matomo.cloud/dsnp.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
     })();
+    /* cachebuster */
+        var uniqueNum = new Date().getTime();
+        var cssURL = 'css/custom.css?ver=' + uniqueNum;
+        var cssElement=document.createElement('link')
+        cssElement.setAttribute('rel','stylesheet')
+        cssElement.setAttribute('type','text/css')
+        cssElement.setAttribute('href', cssURL);
+        document.getElementsByTagName("head")[0].appendChild(cssElement);
    </script>
 </head>
 <body>
