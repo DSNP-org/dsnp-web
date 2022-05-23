@@ -6,15 +6,18 @@ body { display: flex; min-height: 100vh; flex-direction: column; -webkit-font-fe
 .logo:hover {color:inherit;}
 
 a {text-decoration:none;}
+p a {border-bottom:1px solid #23de8a;}
 .button {border:1px solid #23de8a;}
 .subheading {font-size:initial; margin-top:-20px;}
 sup {margin-left:-.1rem;}
+.footnote-ref {border-bottom:none; color:#23de8a;}
 
 .socialLinks {list-style:none; border-left:#fff; padding:1rem 0 0 2rem; margin-bottom:2rem; border-left:1px solid #fff;}
 .socialLinks li {display:inline; margin-right:16px;}
 .nav {list-style:none; border-left:1px solid #bbb; padding-left:2rem;}
 .nav li {margin-bottom:1rem; line-height:2.2rem;}
 .nav li a {color: #222;}
+.nav li a:hover {color:#23de8a;}
 /*.nav li a:hover:after, .ext:hover:after {content:'↗'; font-size:smaller; margin-left:.25rem; font-weight:bold;} 
 .ext:hover:after {position:absolute; top:2px;}*/
 
