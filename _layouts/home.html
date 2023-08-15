@@ -1,0 +1,40 @@
+---
+layout: blog
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+      {%- for post in site.posts -%}
+
+        <h7>{%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}</h7>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h5>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+  </h5>
+  {%- if post.author -%}
+  <p><em>By {{ post.author }}</em></p>
+  {%- endif -%}
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+        {%- if post.blurb -%}
+          <p>{{ post.blurb }}</p>
+          <h6><a class="post-link" href="{{ post.url | relative_url }}">
+             Read more...
+          </a></h6>
+        {%- endif -%}
+      <hr>
+      {%- endfor -%}
+
+    <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
+  {%- endif -%}
+
+</div>

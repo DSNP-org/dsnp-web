@@ -1,13 +1,15 @@
-# Decentralized Social Networking Protocol (DSNP) and the Multi-stakeholder Approach to Development and Implementation
-
-*By Constance de Leusse, Executive Director of Project Liberty’s McCourt Institute*
-
-## What is happening?
+---
+layout: post
+title:  "If Code Is Law, Then Protocols Are Good Manners That Help Us Get Along: Decentralized Social Networking Protocol (DSNP) and the Multi-stakeholder Approach to Development and Implementation"
+author: Constance de Leusse, Executive Director of Project Liberty’s McCourt Institute
+blurb: The Decentralized Social Networking Protocol (DSNP) is a product developed by Project Liberty, an international non-profit founded by Frank McCourt, with the goal of transforming how the Internet works, who owns and controls personal data, and who benefits from the digital economy.
+---
+###### What is happening?
 
 The Decentralized Social Networking Protocol ([DSNP](https://dsnp.org/)) is a product developed by Project Liberty, an international non-profit founded by [Frank McCourt](https://projectliberty.io/team/frank-mccourt/), with the goal of transforming how the Internet works, who owns and controls personal data, and who benefits from the digital economy. The McCourt Institute, as the research and digital governance arm of Project Liberty, aims to support the development and management of DSNP. Developed by a team led by [Braxton Woodham](https://www.mccourt.com/people/braxton-woodham), DSNP aims to be a key technical means to detoxify social networking by giving people control over their own data. The new protocol provides a key network layer for the Internet’s architecture that makes possible a new generation of social networking services – decentralized, innovative, and, above all, competitive.
 
  
-## What problem is DSNP trying to fix?
+###### What problem is DSNP trying to fix?
 
 > “Tech should be optimized for people, not for time online, ad revenue, or rage.”<br>
 > – Frank McCourt, founder and executive chairman of Project Liberty
@@ -18,14 +20,14 @@ DSNP is a key piece of technical architecture to manage the data that makes genu
 
 DSNP is also great for developers; they can’t suddenly be shut out of a platform they’ve invested in building their service on. And crucially for us all, DSNP takes away the incentive to blast emotive content at people while maximizing ‘engagement.’ DSNP is a key part of making the web a better, more informative, less divisive place. 
 
-## What are protocols and why are they important?
+###### What are protocols and why are they important?
 
 Our online world is built on layers of networking protocols, complex sets of technical instructions and understandings about how to exchange information. The fundamental protocols that created the Internet and still make it work today are called the Internet Protocol and Transmission Control Protocol, or TCP/IP. These and other essential protocols are constantly updated by open standards bodies such as the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C). To do their job well, protocols need to serve the communities that use them. Protocols are iterated over time by the communities that use them. Without constant improvement and updating – and the development of complementary protocols to do related tasks – protocols stop being useful.
 
 It’s often said of the Internet that “[code is law](https://lessig.org/product/code/)”, but it might be just as true to add “and protocols are good manners.” Protocols set out the best way that people have collectively figured out to do a complicated series of interdependent tasks at a particular moment. They’re both collective and a work in progress. That’s why we invite people to look at DSNP and start thinking about how it can be even better. 
 
  
-## What is DSNP?
+###### What is DSNP?
 
 DSNP is an open-source social networking protocol designed to operate over a consensus system, such as a blockchain. It builds on existing core internet and web protocols like HTTP, and incorporates open standards including the World Wide Web Consortium’s ActivityStreams data format (as used in Mastodon and other parts of the fediverse). It uses consensus system like blockchains in a very targeted way, to keep people’s data under their own control, not aggregated by platforms.  
 
@@ -33,7 +35,7 @@ As well as being a technical protocol, DSNP is developing an evolving community-
 
 The principles guiding DSNP are that it will be open, multi-stakeholder, and transparent. Its future evolution, supported by Project Liberty, will be to develop the next iteration of the protocol and an accompanying governance process that supports wide participation in its ongoing development. Everything about DSNP supports the fundamental belief that people should have agency over their data. 
 
-## Who’s in charge of DSNP?
+###### Who’s in charge of DSNP?
 
 DSNP is managed by Project Liberty and advised by a group of experts with long and deep history in Internet protocol and governance development:
 
@@ -45,7 +47,7 @@ DSNP is managed by Project Liberty and advised by a group of experts with long a
 
 This team of expert advisors has done foundational work across protocol development, data privacy, and in developing the technology governance models the Internet relies on today. They bring deep experience in technological innovation and community-building, and are committed to bringing DSNP to the next stage, both technically and in how it is developed and managed in the future. 
 
-## What’s next for DSNP and how to get involved
+###### What’s next for DSNP and how to get involved
 
 The DSNP advisory group met for the first time on April 20, 2023 at the MIT Media Lab, in Cambridge, Massachusetts, and will hold two more meetings in 2023. The DSNP advisory group has two priorities: 
 
