@@ -2,7 +2,7 @@
 layout: post
 title:  "Unbundling the Social Media Stack - Could a Decentralized Protocol Bring Real Choice and Control?"
 tag: interview
-author: Constance de Leusse, Executive Director of Project Liberty’s McCourt Institute
+author: Constance de Leusse, Executive Director of Project Liberty’s Institute
 blurb: Project Liberty sat down with Wendy Seltzer, an advisor to the Decentralized Social Networking Protocol (DSNP).
 --- 
 Project Liberty sat down with Wendy Seltzer, an advisor to the Decentralized Social Networking Protocol (DSNP).
