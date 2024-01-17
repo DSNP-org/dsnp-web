@@ -10,7 +10,7 @@ Please write directly to: <a href="mailto:dsnpfeedback@projectliberty.io">dsnpfe
 
 ### Our Vision and Mission
 
-Our vision for the Internet is an ethical, human-centered online space that brings shared economic and social benefits to all, now and in the future.
+Our<sup>1</sup> vision for the Internet is an ethical, human-centered online space that brings shared economic and social benefits to all, now and in the future.
 
 Our belief is that appropriate technical infrastructure choices can facilitate the emergence of an online space for human interaction. Our approach is to develop technology elements that allow and support open and competitive innovation in the applications that provide this space. The current concentration of control over that space by large actors that provide centralized solutions under their exclusive control does not allow those who share our vision full scope to collaborate in creating a better user experience. 
 
@@ -29,3 +29,7 @@ Our mission is to facilitate the production of, development of, and validation o
 **Interoperability and openness:** We care about collaboration and cooperation with other groups developing technical approaches that are motivated by a vision that we hold in common. We seek to design DSNP in a way that encourages similar efforts to join and benefit from the platform and processes for their development. We also strive for interoperability with other technical fora, protocols, and applications by design, to enhance the prospects of wide adoption of DSNP. People should be able to choose their online experience that should not preclude communicating with those who have chosen to have their experience in a different form.
 
 **Open source:** DSNP is developed with a commitment to being a technology built for the common good. DSNP is dedicated to the public interest. Its software and specifications are maintained with open public licenses, allowing anyone to obtain and modify DSNP’s code, which publicly lives on and is maintained openly on GitHub. 
+
+---
+
+<sup>1</sup> “Our” involves Project Liberty Foundation as the first steward of DSNP governance, then a broader community of governors.
