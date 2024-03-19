@@ -8,7 +8,7 @@ layout: default
 ##### Version: Draft 2024-03-19
 
 <i>Your comments and feedback on our Specification Development Process are warmly welcomed and greatly appreciated as we strive to grow together as an open-source community.
-Please send governance/process feedback to: dsnpfeedback@projectliberty.io</i>
+Please send governance/process feedback to: [dsnpfeedback@projectliberty.io](mailto:dsnpfeedback@projectliberty.io)</i>
 
 ### Introduction
 
@@ -20,7 +20,7 @@ It is aligned with the [DSNP Mission and Principles](./mission-principles.md).
 
 - Chair (or Chairs) take overall responsibility for progressing work, setting meeting agendas, and calling for decisions, adjudicating disputes, and determining consensus. Chair(s) may delegate work while retaining overall responsibility. Chairs are chosen by the spec development group. DSNP Steering Committee can hear appeals.
 - Editor(s) are responsible for the text of the specification. Their selection is confirmed by the Chair(s).
-- Contributors: Any person who _[<mark>agrees to the terms of the DSNP Agreement, including its Code of Conduct and IP policies (being developed at the moment of the publication of the spec development process)]</mark>_ may contribute to specification development.
+- Contributors: Any person who <mark>agrees to the terms of the DSNP Agreement, including its Code of Conduct and IP policies (being developed at the moment of the publication of the spec development process)</mark> may contribute to specification development.
 
 ### Steps
 
