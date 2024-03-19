@@ -20,7 +20,7 @@ It is aligned with the [DSNP Mission and Principles](./mission-principles.md).
 
 - Chair (or Chairs) take overall responsibility for progressing work, setting meeting agendas, and calling for decisions, adjudicating disputes, and determining consensus. Chair(s) may delegate work while retaining overall responsibility. Chairs are chosen by the spec development group. DSNP Steering Committee can hear appeals.
 - Editor(s) are responsible for the text of the specification. Their selection is confirmed by the Chair(s).
-- Contributors: Any person who <mark>agrees to the terms of the DSNP Agreement, including its Code of Conduct and IP policies (being developed at the moment of the publication of the spec development process)</mark> may contribute to specification development.
+- Contributors: Any person who `[`_agrees to the terms of the DSNP Agreement, including its Code of Conduct and IP policies (being developed at the moment of the publication of the spec development process)_`]` may contribute to specification development.
 
 ### Steps
 
