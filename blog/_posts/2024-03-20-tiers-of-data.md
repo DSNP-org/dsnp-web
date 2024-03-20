@@ -19,11 +19,12 @@ At this tier, we place items that have the greatest consequences if lost: Identi
 
 #### Tier 1: Batch Publications
 
-[Batch files](https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-delegation/216) form the next tier of data. While the data is stored outside the consensus system itself, the integrity of Batch files is ensured by using Tier 0 metadata.
+[Batch Publications](https://spec.dsnp.org/DSNP/BatchPublications.html) form the next tier of data.
+While the data is stored outside the consensus system itself, the integrity of Batch Publication files is ensured by using Tier 0 metadata.
 We can connect the contents of the Batch file back to the consensus system.
 A hash of the file allows users to know if the Batch file they retrieve is authentic, no matter the source.
-The consensus system also records who announced the new Batch.
-While the announcer could be unknown to the consuming application, [delegation](https://forums.projectliberty.io/t/03-wherefore-art-thou-delegation/213) allows some level of user-enforced reputation.
+The consensus system also records who announced the new Batch Publication.
+While the announcer could be unknown to the consuming application, [delegation](https://spec.dsnp.org/DSNP/Identity.html#delegation) allows some level of user-enforced reputation.
 Users are remarkably good at avoiding unreliable services.
 
 Reputation alone may be enough to maintain batch file availability, but availability is also incentivized through diversity.
