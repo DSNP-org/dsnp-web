@@ -55,3 +55,5 @@ By securing the more important information at a more secure tier, information st
 In the end, the goal is transparency and authenticity with options for cost and storage.
 Different types of data have different needs, and DSNP is designed to flexibly meet those different needs.
 As technologies grow and change, DSNP systems should be able to grow and change with it.
+
+_Wil Wade is the director of blockchain engineering at Amplica Labs and one of the co-authors of the [DSNP Whitepaper](https://dsnp.org/dsnp_whitepaper.pdf). A previous version of this article appeared as a concept post in the [Project Liberty Forums](https://forums.projectliberty.io/)._
