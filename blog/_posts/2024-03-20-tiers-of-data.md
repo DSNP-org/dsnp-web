@@ -3,12 +3,13 @@ layout: post
 title: Tiers of Data
 author: Wil Wade
 tags: design
-blurb: Different classes of data are part of what make DSNP both possible and flexible.
+blurb: Different classes of data are part of what makes DSNP both possible and flexible.
 ---
 
 DSNP makes use of a three tier data storage architecture.
 While implementations may slightly differ on how or why data is stored at a different tier, the general structure is still the same.
 As we go through each tier, levels of security, availability, and cost change.
+Different classes of data are part of what makes DSNP both possible and flexible.
 
 #### Tier 0: The Consensus System
 
