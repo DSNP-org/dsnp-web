@@ -16,7 +16,7 @@ Different classes of data are part of what makes DSNP both possible and flexible
 At the consensus system level we have the highest security and availability levels for data.
 Data is replicated and stored on each node of the network, meaning that as long as the system as a whole remains uncompromised and sufficiently decentralized, strong consistency and durability guarantees apply.
 The trade-off is that the cost to store data at this layer is the highest as well.
-At this tier, we place items that have the greatest consequences if lost: Identifiers, permissions, the social graph to be shared among applications, and references to the next tier of data.
+At this tier, we place items that have the greatest consequences if lost: Identifiers, permissions, user-controlled social graph, and references to the next tier of data.
 
 #### Tier 1: Batch Publications
 
@@ -42,17 +42,18 @@ Implementing systems may also investigate ways to incentivise long-term storage 
 
 While Batches are stored outside the consensus system itself, they contain some level of network information that is needed for the network to function fully.
 The final tier of data consists of content like posts, replies, and user profiles, and is found using the URL or URI (Uniform Resource Identifier, of which URLs are a subset) along with a verifiable hash of the content.
-While we often have a chain of hashes that secure the authenticity of the retrieved information, data _availability_ is the responsibility of the user that desires others to access it.
+External content can have authenticity secured through a chain of hashes that is anchored in the consensus system level.
+However, data _availability_ is the responsibility of the user that desires others to access it.
 A user typically outsources the responsibility for data availability to a service provider, which often will be the same as the provider that announces the Batch referencing the content.
 
 DSNP can assist in communicating the intent to delete ([tombstone](https://spec.dsnp.org/DSNP/Types/Tombstone)) or notify others that the storage location or content is [updated](https://spec.dsnp.org/DSNP/Types/Update), but responsibility and control over storage is ultimately in the hands of the announcing user and their agents.
 
 #### Mix and Match
 
-In several places above you can see how DSNP divides data and metadata between several tiers.
+The above examples are just some of the details on how DSNP divides data and metadata between several tiers.
 This is an intentional pattern.
-Metadata falls into three categories: who is trying to send the messages, how to know it is authentic, and where to find it.
-By securing the more important information at a more secure tier, information stored at lower tiers with lower cost can still have a high level of authenticity: the chain of metadata provides a proof of (former) existence even if that data is not currently retrievable.
+In general, metadata falls into three categories: who is trying to send the messages, how to know it is authentic, and where to find it.
+By securing critical and metadata information at tiers with more security and availability, data stored at tiers with fewer guarantees (and lower cost) can still have a high level of authenticity: the chain of metadata provides a proof of (former) existence even if that data is not currently retrievable.
 
 In the end, the goal is transparency and authenticity with options for cost and storage.
 Different types of data have different needs, and DSNP is designed to flexibly meet those different needs.
