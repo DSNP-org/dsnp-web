@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tiers of Data
+title: "Design Thinking: DSNP's Tiers of Data"
 author: Wil Wade
 tags: design
 blurb: Different classes of data are part of what makes DSNP both possible and flexible.
