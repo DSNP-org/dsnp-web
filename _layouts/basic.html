@@ -11,7 +11,9 @@
     <meta name="twitter:creator" content="@dsnp_org">
     <meta name="twitter:title" content="{% if page.title %}DSNP{% if page.layout == "post" %} Blog{% endif %} - {{page.title}}{% else %}DSNP - Decentralized Social Networking Protocol{% endif %}">
     <meta name="twitter:description" content="{% if page.blurb %}{{page.blurb}}{% else %}DSNP establishes a shared social graph no longer dependent on a specific app or centralized platform.{% endif %}">
-    <meta name="twitter:image" content="http://www.dsnp.org/images/banner-networks-black.png">
+{% if page.featuredimage %}
+    <meta name="twitter:image" content="{{page.featuredimage}}">
+{% endif %}
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/fonts.css">
     <link rel="stylesheet" href="/css/skeleton.css">
