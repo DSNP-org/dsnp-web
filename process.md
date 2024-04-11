@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Specification Development Process
 ---
 <h2><a href="index.html" class="logo">DSNP</a></h2>
 

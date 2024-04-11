@@ -2,15 +2,15 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Decentralized Social Networking Protocol - DSNP Blog</title>
-    <meta name="description" content="DSNP establishes a shared social graph no longer dependent on a specific app or centralized platform.">
-    <meta name="author" content="">
+    <title>{% if page.title %}DSNP{% if page.layout == "post" %} Blog{% endif %} - {{page.title}}{% else %}DSNP - Decentralized Social Networking Protocol{% endif %}</title>
+    <meta name="description" content="{% if page.blurb %}{{page.blurb}}{% else %}DSNP establishes a shared social graph no longer dependent on a specific app or centralized platform.{% endif %}">
+    <meta name="author" content="{% if page.author %}{{page.author}}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@dsnp_org">
     <meta name="twitter:creator" content="@dsnp_org">
-    <meta name="twitter:title" content="DSNP">
-    <meta name="twitter:description" content="DSNP establishes a shared social graph no longer dependent on a specific app or centralized platform.">
+    <meta name="twitter:title" content="{% if page.title %}DSNP{% if page.layout == "post" %} Blog{% endif %} - {{page.title}}{% else %}DSNP - Decentralized Social Networking Protocol{% endif %}">
+    <meta name="twitter:description" content="{% if page.blurb %}{{page.blurb}}{% else %}DSNP establishes a shared social graph no longer dependent on a specific app or centralized platform.{% endif %}">
     <meta name="twitter:image" content="http://www.dsnp.org/images/banner-networks-black.png">
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/fonts.css">
