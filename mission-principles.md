@@ -2,8 +2,6 @@
 layout: default
 title: Mission and Principles
 ---
-<h2><a href="index.html" class="logo">DSNP</a></h2>
-
 ## Mission and Principles
 
 _Your valuable comments and feedback on our Mission and Principles statement are warmly welcomed and greatly appreciated as we strive to grow together as an open-source community by currently developing foundational documents on DSNP governance.
