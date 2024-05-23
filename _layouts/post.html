@@ -30,7 +30,7 @@ layout: blog
 
   {%- for tagName in page.tags -%}
     {%- capture tags_content -%}
-      {{ tags_content }} <mark><a href='/tags?tagName={{ tagName }}'><i class='glyphicon glyphicon-tag'></i>{{ tagName }}</a></mark>
+      {{ tags_content }} <mark><!--<a href='/tags?tagName={{ tagName }}'><i class='glyphicon glyphicon-tag'></i>-->{{ tagName }}<!--</a>--></mark>
     {%- endcapture -%}
   {%- endfor -%}
   {{ tags_content }}
