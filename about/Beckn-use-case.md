@@ -5,7 +5,7 @@ blurb: DSNP is used with Beckn to authenticate that reviews are from actual prod
 ---
 ###### Intro
 
-DDSNP allows users to have a pseudonymous identity while online.  This means that users may choose to share their real-world identity with others or keep that information to themselves.  However, DSNP applications may utilize blockchain to positively identify that user’s account across various activities.  This ability to allow users to remain private, while verifying their account can be useful for a variety of activities.  One such use case is being developed with Beckn.
+DSNP allows users to have a pseudonymous identity while online.  This means that users may choose to share their real-world identity with others or keep that information to themselves.  However, DSNP applications may utilize blockchain to positively identify that user’s account across various activities.  This ability to allow users to remain private, while verifying their account can be useful for a variety of activities.  One such use case is being developed with Beckn.
 
 
 
