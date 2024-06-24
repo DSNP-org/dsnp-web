@@ -5,7 +5,7 @@ title: Use Cases
 <div class="heading">
 <h2>Use Cases</h2>
 <p>
-DSNP is an open and flexible protocol designed to be used in a number of ways by a variety of business verticals. 
+DSNP is an open and flexible protocol designed to be used in a number of ways by a variety of verticals. 
 </p>
 <div class="nav">
 <li><b>Current Use Cases</b></li>  
