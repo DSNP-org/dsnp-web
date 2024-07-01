@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: default
 title:  "MeWe and Social Media"
 blurb: DSNP is used to migrate hundreds of thousands of MeWe social media users from Web 2.0 to the decentralized web.
 ---
-###### Intro
+## MeWe and Social Media
 
 DSNP is designed to support a new way of social networking, one that is open, decentralized, and designed to give users more control and ownership over their data and their relationships.
 

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: default
 title:  "DSNP and the Music Industry"
 ---
-###### Intro
+## DSNP and the Music Industry
 
 DSNP (the Decentralized Social Networking Protocol) enables verifiable, consensus system-based social interactions.  The open, free and permissionless protocol can be adopted by platforms, organizations and governments to create integrated social experiences across diverse sectors like media, ecommerce, mobility, education and more.  DSNP works by allowing applications to compete in an interoperable ecosystem and an open marketplace.  DSNP users have a universal identity that stores relationship data (their social graph) in an independent data layer.  Users have complete control over which applications may access this layer, how much data is shared, and when that access may occur.  This allows users to move freely among DSNP applications without losing control over their online relationships or following.  This is particularly helpful to the music industry, which values one-to-one relationships between individuals and artists.
  
