@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Why DSNP?
+title: Why Build With DSNP?
 ---
-## Why DSNP?
+## Why Build With DSNP?
 
-_Why You Should Consider DSNP for Your Decentralized Social App._
+_Why You Should Consider DSNP for Your Decentralized Social App_
 
 There are a variety of social media protocols and platforms available to you as a developer each with their own strengths and weaknesses.  Here are a few reasons why DSNP may prove the best platform for your decentralized social application.
 
@@ -37,11 +37,3 @@ Some protocols offer no guarantee that user data will remain private and secure.
 #### Welcoming Developer Community
 
 A thriving community has grown to support DSNP and the many applications and services using the protocol. This includes forums, open source code repositories, and monthly open meetings where DSNP developers and community members solicit feedback, contributions, and suggestions and keep everyone up to date on the evolution of the protocol and ecosystem. In addition, Project Liberty Institute has convened an experienced and high-profile panel of DSNP Advisors, drawn from industry and academia, who meet regularly to work through various aspects of the protocol including ethics, use cases, specifications, governance and the growth of the ecosystem. Researchers at prestigious institutions including Harvard University, Stanford University and MIT are actively engaging with DSNP and exploring intersections with work in areas as diverse as social sciences, economics, computer science, and communications theory.  Any interested developers are encouraged to participate in the DSNP community by reviewing the mission and principles and joining open forums online and live discussions like the DSNP monthly specification call.
-
-
-
-
-
----
-
-
