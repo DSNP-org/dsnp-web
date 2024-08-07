@@ -2,15 +2,15 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}DSNP{% if page.layout == "post" %} Blog{% endif %} - {{page.title}}{% else %}DSNP - Decentralized Social Networking Protocol{% endif %}</title>
-    <meta name="description" content="{% if page.blurb %}{{page.blurb}}{% else %}DSNP establishes a shared social graph no longer dependent on a specific app or centralized platform.{% endif %}">
-    <meta name="author" content="{% if page.author %}{{page.author}}{% endif %}">
+    <title>{% if page.title %}DSNP{% if page.layout == "post" %} Blog{% endif %} - {{page.title | xml_escape }}{% else %}DSNP - Decentralized Social Networking Protocol{% endif %}</title>
+    <meta name="description" content="{% if page.blurb %}{{page.blurb | xml_escape }}{% else %}DSNP establishes a shared social layer no longer dependent on a specific app or centralized platform.{% endif %}">
+    <meta name="author" content="{% if page.author %}{{page.author | xml_escape }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@dsnp_org">
     <meta name="twitter:creator" content="@dsnp_org">
-    <meta name="twitter:title" content="{% if page.title %}DSNP{% if page.layout == "post" %} Blog{% endif %} - {{page.title}}{% else %}DSNP - Decentralized Social Networking Protocol{% endif %}">
-    <meta name="twitter:description" content="{% if page.blurb %}{{page.blurb}}{% else %}DSNP establishes a shared social graph no longer dependent on a specific app or centralized platform.{% endif %}">
+    <meta name="twitter:title" content="{% if page.title %}DSNP{% if page.layout == "post" %} Blog{% endif %} - {{page.title | xml_escape }}{% else %}DSNP - Decentralized Social Networking Protocol{% endif %}">
+    <meta name="twitter:description" content="{% if page.blurb %}{{page.blurb | xml_escape }}{% else %}DSNP establishes a shared social layer no longer dependent on a specific app or centralized platform.{% endif %}">
 {% if page.featuredimage %}
     <meta name="twitter:image" content="{{page.featuredimage}}">
 {% endif %}

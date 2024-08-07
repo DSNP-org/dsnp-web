@@ -2,7 +2,7 @@
 layout: post
 title:  "The DSNP Difference--Federated Protocols Part 2"
 author: Jeanette DePatie, DSNP Contributor
-blurb: DSNP Contributor and professional "techsplainer" Jeanette DePatie shares her thoughts in this second in a series of articles about the differences developers will experience between creating on DSNP versus other federated protocols.
+blurb: "DSNP Contributor and professional \"techsplainer\" Jeanette DePatie shares her thoughts in this second in a series of articles about the differences developers will experience between creating on DSNP versus other federated protocols."
 --- 
 DSNP Contributor and professional "techsplainer" Jeanette DePatie shares her thoughts in this second in a series of articles about the differences developers will experience between creating on DSNP versus other federated protocols.
 
