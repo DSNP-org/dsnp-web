@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The DSNP Difference--Federated Protocols Part 2"
-author: Jeanette DePatie, DSNP Contributor
+author: Jeanette DePatie
 blurb: "DSNP Contributor and professional \"techsplainer\" Jeanette DePatie shares her thoughts in this second in a series of articles about the differences developers will experience between creating on DSNP versus other federated protocols."
 --- 
 DSNP Contributor and professional "techsplainer" Jeanette DePatie shares her thoughts in this second in a series of articles about the differences developers will experience between creating on DSNP versus other federated protocols.
@@ -63,10 +63,4 @@ DSNP has been designed from the ground up to be massively scalable.  Firstly, DS
 
 Decentralized and federated social media protocols have attracted significant interest and rapid advancement.  While AT Protocol, ActivityPub and DSNP may be among the most popular of these formats, new ones are being developed all the time.  Each decentralized or federated social media protocol has advantages and disadvantages for hosts, developers and users.  The spirit of decentralization points to a future which doesn’t split the world into winners and losers, but rather, seeks to find common ground and opportunity in collaboration.  Thus it should be of significant interest to all stakeholders to find a way to work together and learn from one another to work towards a future that creates a better, and more empowering, social networking future for all.
 
-
-
-##### Note from the Author
-The opinions expressed in this post are solely my own and do not necessarily express the views or opinions of Project Liberty.
-
----
-
+_Jeanette Depatie is a DSNP contributor and technical writer. The opinions expressed in this post are solely the author's and do not necessarily express the views or opinions of Project Liberty Institute._

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The DSNP Difference--Federated Protocols Part 1"
-author: Jeanette DePatie, DSNP Contributor
+author: Jeanette DePatie
 blurb:  "DSNP Contributor and professional \"techsplainer\" Jeanette DePatie shares her thoughts the differences developers will experience between creating on DSNP versus other federated protocols."
 --- 
 DSNP Contributor and professional "techsplainer" Jeanette DePatie shares her thoughts the differences developers will experience between creating on DSNP versus other federated protocols.
@@ -69,8 +69,4 @@ Again, one could imagine a hybrid system appending the data persistence and ease
 
 These are just a few of the important differences between DSNP and other protocols like AT Protocol and ActivityPub.  Stay tuned for further articles with additional details regarding the advantages offered to developers by DSNP.
 
-##### Note from the Author
-The opinions expressed in this post are solely my own and do not necessarily express the views or opinions of Project Liberty.
-
----
-
+_Jeanette Depatie is a DSNP contributor and technical writer. The opinions expressed in this post are solely the author's and do not necessarily express the views or opinions of Project Liberty Institute._
