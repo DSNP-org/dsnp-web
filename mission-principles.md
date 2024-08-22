@@ -31,4 +31,4 @@ Our mission is to facilitate the production of, development of, and validation o
 
 ---
 
-<sup>1</sup> “Our” involves Project Liberty Foundation as the first steward of DSNP governance, then a broader community of governors.
+<sup>1</sup> “Our” involves Project Liberty Institute as the first steward of DSNP governance, then a broader community of governors.
