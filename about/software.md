@@ -28,7 +28,6 @@ Please email [hello@dsnp.org](mailto:hello@dsnp.org).
 
 | Name | Language | Code Repository | Description |
 | --- | --- | --- | --- |
-| @dsnp/frequency-schemas | Typescript/Javascript | [Github](https://github.com/LibertyDSNP/frequency-schemas) | Library and scripts for using DSNP schemas on [Frequency](https://frequency.xyz) |
 | [@dsnp/graph-sdk](https://www.npmjs.com/package/@dsnp/graph-sdk) | Rust with JS and Java bindings | [Github](https://github.com/ProjectLibertyLabs/graph-sdk) | Library for interacting with DSNP social graphs on Frequency |
 | [gateway](https://projectlibertylabs.github.io/gateway) | Typescript/Javascript | [Github](https://github.com/ProjectLibertyLabs/gateway) | Suite of web services to simplify DSNP over Frequency usage |
 | social-app-template | Typescript/Javascript | [Github](https://github.com/ProjectLibertyLabs/social-app-template) | Social application template and example that uses gateway for DSNP over Frequency |
