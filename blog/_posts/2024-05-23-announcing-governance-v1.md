@@ -8,7 +8,7 @@ blurb: Today, Project Liberty Institute is pleased to announce the publication o
 
 In the landscape of open and decentralized protocols, governance can be as important as technical choices to the success of these digital ecosystems. Good governance invites equitable stakeholder engagement and informed decision-making. Today, Project Liberty Institute is pleased to announce the publication of a draft Governance Framework (v.1) for the Decentralized Social Networking Protocol (DSNP).
 
-Following the publication of the [Mission and Principles](https://dsnp.org/mission-principles.html), and the [Specification Development Process](https://dsnp.org/process.html), this governance framework builds a decision-making process to reinforce the fundamental principles driving the protocol.
+Following the publication of the [Mission and Principles](https://dsnp.org/governance/mission-principles.html), and the [Specification Development Process](https://dsnp.org/governance/spec-dev-process.html), this governance framework builds a decision-making process to reinforce the fundamental principles driving the protocol.
 
 DSNP Governance Framework consists of a Membership Agreement, DSNP Charter, and Working Group Charter. The framework's core governance choices include:
 

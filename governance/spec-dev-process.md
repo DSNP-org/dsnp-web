@@ -6,8 +6,6 @@ title: Specification Development Process
 
 ## Specification Development Process
 
-##### Version: Draft 2024-03-19
-
 <i>Your comments and feedback on our Specification Development Process are warmly welcomed and greatly appreciated as we strive to grow together as an open-source community.
 Please send governance/process feedback to: [dsnpfeedback@projectliberty.io](mailto:dsnpfeedback@projectliberty.io)</i>
 
@@ -51,3 +49,9 @@ Nevertheless, the standard time frame is generally set at approximately 30 days.
 #### 5. Release and Distribution
 Upon determination of rough consensus, Chairs release the “Published Specification”. 
 Rough consensus does not mean unanimity, but comments and feedback should have reasoned responses.
+
+### Version History
+
+| Date | Status |
+| --- | --- |
+| 2024-03-19 | Initial draft |
