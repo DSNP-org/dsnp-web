@@ -31,7 +31,6 @@ Please email [hello@dsnp.org](mailto:hello@dsnp.org).
 | [gateway](https://projectlibertylabs.github.io/gateway) | Typescript/Javascript | [Github](https://github.com/ProjectLibertyLabs/gateway) | Suite of self-hosted web services to simplify DSNP over Frequency usage |
 | [@projectlibertylabs/siwf](https://projectlibertylabs.github.io/siwf/v2/docs/) | Typescript/Javascript | [Github](https://github.com/ProjectLibertyLabs/siwf) | Sign In With Frequency documentation and libraries |
 | social-app-template | Typescript/Javascript | [Github](https://github.com/ProjectLibertyLabs/social-app-template) | Social application template and example that uses gateway for DSNP over Frequency |
-| [@projectlibertylabs/siwf](https://projectlibertylabs.github.io/siwf/) | Typescript/Javascript | [Github](https://github.com/ProjectLibertyLabs/siwf) | Sign In With Frequency documentation and libraries |
 | [@dsnp/did-resolver-frequency](https://www.npmjs.com/package/@dsnp/did-resolver-frequency) | Typescript/Javascript | [Github](https://github.com/ProjectLibertyLabs/dsnp-did-resolver-frequency) | Plugin for @dsnp/did-resolver to enable DSNP DID resolution on Frequency |
 | [@dsnp/graph-sdk](https://www.npmjs.com/package/@dsnp/graph-sdk) | Rust with JS and Java bindings | [Github](https://github.com/ProjectLibertyLabs/graph-sdk) | Library for interacting with DSNP social graphs on Frequency |
 
