@@ -3,7 +3,7 @@ layout: post
 title: "Expanding the Decentralized Social Networking Protocol (DSNP) Community at RightsCon, Taiwan"
 author: Sarah Nicole
 tags: governance
-blurb: This week at RightsCon Taiwan, the DSNP community took a major step forward. As an official RightsCon Satellite event, Project Liberty Institute hosted the first DSNP community meeting, drawing a full room of over 40 participants.
+blurb: Last month at RightsCon Taiwan, the DSNP community took a major step forward. As an official RightsCon Satellite event, Project Liberty Institute hosted the first DSNP community meeting, drawing a full room of over 40 participants.
 ---
 
 Stewardship of the Decentralized Social Networking Protocol (DSNP), a public-interest infrastructure protocol available as a public utility, is central to Project Liberty Institute's mission. 
@@ -12,7 +12,7 @@ Over the past year, the DSNP Advisory Council and its Governance Working Group c
 
 Since DSNP is about helping people reclaim control of their digital lives, fostering voice, choice, and stake in a better digital ecosystem, its governance should reflect and support those principles.
 
-This week at RightsCon Taiwan, the DSNP community took a major step forward. As an official RightsCon Satellite event, Project Liberty Institute hosted the first DSNP community meeting, drawing a full room of over 40 participants.
+Last month at RightsCon Taiwan, the DSNP community took a major step forward. As an official RightsCon Satellite event, Project Liberty Institute hosted the first DSNP community meeting, drawing a full room of over 40 participants.
 
 Participants included representatives from Aapti Institute, CIGI, Creative Commons, Integrity Institute, Metagov, Mozilla Foundation, Open Data Charter, Wikimedia Foundation, independent developers, tech experts, and France’s Digital Ambassador. Beyond helping more people connect with Project Liberty’s work, we aim to foster interconnection among the supporters of the decentralized social web.
 
@@ -39,4 +39,4 @@ Following RightsCon, Project Liberty Institute and DSNP are committed to further
 
 The momentum behind DSNP is growing, and there is increasing interest in shaping the future of an open, community-driven social web. Sarah Nicole also joined the panel “How we Build the Social Web” along with Mallory Knodel from Social Web Foundation, Andy Piper from Mastodon, and Palak Sheth from Threads. It was another opportunity to share how DSNP acts as a bridge between different platforms and protocols to build a social web that gives users voice, choice, and stake in their digital lives. 
 
-If you want to be part of this journey, now is the time to get involved: [dsnpfeedback@projectliberty.io]
+If you want to be part of this journey, now is the time to get involved: [dsnpfeedback@projectliberty.io](mailto:dsnpfeedback@projectliberty.io)
