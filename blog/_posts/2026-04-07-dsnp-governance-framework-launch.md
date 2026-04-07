@@ -22,7 +22,7 @@ Since February 2025, Project Liberty Institute (PLI), steward of the Decentraliz
 
 The DSNP Governance Framework is not just a document, it is an invitation.
 
-Anyone interested in engaging with DSNP and future evolutions in the Agentic Web can join the community governance group by registering under one of the [Stakeholder Categories](/governance/decision-flow.html). Upon submission, the required documentation will be sent to you via DocuSign for your review and signature. Join us in the bootstrap phase to help test the mechanics of participation and representation.
+Anyone interested in engaging with DSNP and future evolutions in the Agentic Web can join the community governance group by [registering under one of the Stakeholder Categories](https://forms.fillout.com/t/oxtcvW75uAus). Upon submission, the required documentation will be sent to you via DocuSign for your review and signature. Join us in the bootstrap phase to help test the mechanics of participation and representation.
 
 Built on the Linux Foundation's governance template, this framework is deliberately designed to be transportable across contexts. Whether you are building a protocol, a platform, or a community, we encourage you to use this framework as a model for your own project.
 
